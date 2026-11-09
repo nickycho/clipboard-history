@@ -1,0 +1,198 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Add" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Add" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "追加" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "추가" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "新增" } }
+      }
+    },
+    "Add to Favorites" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Add to Favorites" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入りに追加" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즐겨찾기에 추가" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "加入我的最愛" } }
+      }
+    },
+    "App Menu" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "App Menu" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "アプリメニュー" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "앱 메뉴" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "應用程式選單" } }
+      }
+    },
+    "Clipboard History" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clipboard History" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "クリップボード履歴" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "클립보드 기록" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "剪貼簿歷史" } }
+      }
+    },
+    "Clear Search" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Clear Search" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "検索を消去" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "검색 지우기" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "清除搜尋" } }
+      }
+    },
+    "Copied text containing any of the following strings will not be recorded." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Copied text containing any of the following strings will not be recorded." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "次のいずれかの文字列を含むコピー内容は記録されません。" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "다음 문자열이 포함된 복사 내용은 기록되지 않습니다." } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "複製內容若包含以下任一字串，將不會被記錄。" } }
+      }
+    },
+    "Delete" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Delete" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "削除" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "삭제" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "刪除" } }
+      }
+    },
+    "Enter keyword to exclude" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Enter keyword to exclude" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "除外する文字列を入力" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "제외할 키워드를 입력하세요" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "輸入要排除的字串" } }
+      }
+    },
+    "Excluded Keywords" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Excluded Keywords" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "除外する文字列" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "제외 키워드" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "排除字串" } }
+      }
+    },
+    "Favorites" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Favorites" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入り" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즐겨찾기" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "我的最愛" } }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "General" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一般" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일반" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "一般" } }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "History" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "履歴" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "기록" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "歷史紀錄" } }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Language" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "言語" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "언어" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "語言" } }
+      }
+    },
+    "Launch at login" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Launch at login" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "ログイン時に起動" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "로그인 시 실행" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "登入時啟動" } }
+      }
+    },
+    "No clipboard history" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No clipboard history" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "クリップボード履歴はありません" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "클립보드 기록이 없습니다" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "沒有剪貼簿記錄" } }
+      }
+    },
+    "No favorites yet" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No favorites yet" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入りはまだありません" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즐겨찾기가 없습니다" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "還沒有我的最愛" } }
+      }
+    },
+    "No matching results" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No matching results" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "一致する結果はありません" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "일치하는 결과가 없습니다" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "沒有符合的結果" } }
+      }
+    },
+    "Preferences" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Preferences" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "設定" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "환경설정" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "偏好設定" } }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Quit" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "終了" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "종료" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "結束" } }
+      }
+    },
+    "Remove Excluded Keyword" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Remove Excluded Keyword" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "除外する文字列を削除" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "제외 키워드 삭제" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "移除排除字串" } }
+      }
+    },
+    "Remove from Favorites" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Remove from Favorites" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "お気に入りから削除" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "즐겨찾기에서 제거" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "從我的最愛移除" } }
+      }
+    },
+    "Search..." : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search..." } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "検索..." } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "검색..." } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "搜尋..." } }
+      }
+    },
+    "System Default" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "System Default" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "システム設定" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "시스템 기본값" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "依照系統設定" } }
+      }
+    },
+    "Version" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Version" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "バージョン" } },
+        "ko" : { "stringUnit" : { "state" : "translated", "value" : "버전" } },
+        "zh-Hant" : { "stringUnit" : { "state" : "translated", "value" : "版本" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

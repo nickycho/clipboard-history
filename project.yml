@@ -1,0 +1,54 @@
+name: ClipboardHistory
+options:
+  bundleIdPrefix: com.nickycho
+  deploymentTarget:
+    macOS: "14.0"
+  xcodeVersion: "15.0"
+  groupSortPosition: top
+  generateEmptyDirectories: true
+
+packages:
+  GRDB:
+    url: https://github.com/groue/GRDB.swift
+    from: "6.0.0"
+
+targets:
+  ClipboardHistory:
+    type: application
+    platform: macOS
+    deploymentTarget: "14.0"
+    sources:
+      - path: ClipboardHistory
+    resources:
+      - path: ClipboardHistory/Resources/Assets.xcassets
+      - path: ClipboardHistory/Resources/Localizable.xcstrings
+    info:
+      path: ClipboardHistory/Resources/Info.plist
+      properties:
+        CFBundleDevelopmentRegion: en
+        CFBundleLocalizations:
+          - en
+          - zh-Hant
+          - ja
+          - ko
+        LSUIElement: true
+        NSHumanReadableCopyright: "Copyright © 2026 NickyCho. All rights reserved."
+        CFBundleShortVersionString: "1.1"
+        CFBundleVersion: "2"
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.nickycho.ClipboardHistory
+        MACOSX_DEPLOYMENT_TARGET: "14.0"
+        SWIFT_VERSION: "5.9"
+        DEVELOPMENT_LANGUAGE: en
+        CODE_SIGN_STYLE: Automatic
+        DEVELOPMENT_TEAM: ""
+        INFOPLIST_FILE: ClipboardHistory/Resources/Info.plist
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+    dependencies:
+      - package: GRDB
+    entitlements:
+      path: ClipboardHistory/ClipboardHistory.entitlements
+      properties:
+        com.apple.security.app-sandbox: false
+        com.apple.security.automation.apple-events: true
